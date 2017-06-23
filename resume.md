@@ -3,17 +3,25 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Director, Copyright and Digital Scholarship Center
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2009 - 2011`
+__University of North Carolina School of Information and Library Science__
+MSLS
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2004 - 2007`
+__University of North Carolina School of Law__
+JD 
+
+`2001 - 2003`
+__University of North Carolina School of Media and Journalism__
+MA 
+
+`1996 - 2000`
+__University of North Carolina__
+BA
 
 ## Awards
 
