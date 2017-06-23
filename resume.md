@@ -29,6 +29,7 @@ BA
 
 ### Journals
 
+
 - Thompson, S., Cross, W., Rigling, L., and Vickery, J., Data-Informed Open Education Advocacy: A New Approach to Saving Students Money and Backaches, Journal of Access Services, (In Press)
 
 - Waller, M., Cross, W., and Rigling, L., The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration Between Academic Libraries and University Presses, Journal of Scholarly Publishing, 49(1) (2017)
