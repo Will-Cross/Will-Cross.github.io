@@ -73,7 +73,7 @@ BA
 `2015`
 - Making Space for the Giants: Copyright, Technology, and Online Instruction. In Major, C. (ed.) _Teaching Online: A Guide to Theory, Research, and Practice._ (pp. 131-149). (2015)
 
-##Awards and Grants
+## Awards and Grants
 
 * “Designing OER to Prepare the Next Generation of Scholarly Communication Librarians” Institute of Museum and Library Science, $49,808 (Currently in second round review)
 
@@ -85,7 +85,7 @@ BA
 
 * “Open Education at North Carolina State” NCSU Foundation, $15,000 (2015) 
 
-##Service
+## Service
 
 <!-- ### Footer
 
