@@ -73,6 +73,19 @@ BA
 `2015`
 - Making Space for the Giants: Copyright, Technology, and Online Instruction. In Major, C. (ed.) _Teaching Online: A Guide to Theory, Research, and Practice._ (pp. 131-149). (2015)
 
+###Awards and Grants
+
+* “Designing OER to Prepare the Next Generation of Scholarly Communication Librarians” Institute of Museum and Library Science, $49,808 (Currently in second round review)
+
+* “Developing an Open Textbook Toolkit” Institute of Museum and Library Science LG-72-17-0051-17, $49,958 (2017)
+
+* “Actualizing Innovations Meant to Scale (AIMS): Open Education Across the UNC System” University of North Carolina’s General Administration $32,750 (2017)
+
+* “The Alt-Textbook Project” NCSU Libraries Innovation Grant, $20,000 (2016)
+
+* “Open Education at North Carolina State” NCSU Foundation, $15,000 (2015) 
+
+###Service
 
 <!-- ### Footer
 
