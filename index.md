@@ -7,7 +7,7 @@ Welcome to Will's page. You can see a few of my most recent projects below and c
 
 ## Current Interests and Projects:
 
-- Open ducation and the Open Textbook Toolkit (LG-72-17-0051-17)
+- Open education and the [Open Textbook Toolkit](https://www.imls.gov/grants/awarded/lg-72-17-0051-17) (LG-72-17-0051-17)
 - ACRL Scholarly Communication Roadshow
 - Legal Issues for Librarians
 - Fair use and remix culture
