@@ -30,7 +30,7 @@ BA
 ### Journals
 
 `2018`
-- Thompson, S., Cross, W., Rigling, L., and Vickery, J., Data-Informed Open Education Advocacy: A New Approach to Saving Students Money and Backaches, _Journal of Access Services,_ (_In Press_)
+- Thompson, S., Cross, W., Rigling, L., and Vickery, J., Data-Informed Open Education Advocacy: A New Approach to Saving Students Money and Backaches, _Journal of Access Services,_ (In Press)
 
 `2017`
 - Waller, M., Cross, W., and Rigling, L., The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration Between Academic Libraries and University Presses, _Journal of Scholarly Publishing,_ 49(1) (2017)
@@ -60,38 +60,22 @@ BA
 ### Book Chapters
 
 `2018`
-- Rigling, L., and Cross, W., Getting to Know You: How We Turned Community Knowledge into Open Advocacy, in Wesolek, A., Lashley, J., and Langley, A. (eds.) OER: A Field Guide for Academic Librarians. Pacific University Press (Expected 2018)
+- Rigling, L., and Cross, W., Getting to Know You: How We Turned Community Knowledge into Open Advocacy, in Wesolek, A., Lashley, J., and Langley, A. (eds.) _OER: A Field Guide for Academic Librarians._ Pacific University Press (Expected 2018)
 
-- Waller, M., Fragola, M., Rigling, L., Cross,W., and Evans-Groth, J., Articulating the Value of Student Works: Case Studies from the NCSU Libraries in Jackson, A., Pierard, C., and Schadl, S. (eds.) Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work (Forthcoming, 2018) 
+- Waller, M., Fragola, M., Rigling, L., Cross,W., and Evans-Groth, J., Articulating the Value of Student Works: Case Studies from the NCSU Libraries in Jackson, A., Pierard, C., and Schadl, S. (eds.) _Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work_ (Forthcoming, 2018) 
 
 `2017`
-- Alpi, K., Cross, W., Raschke, G., and Sullivan, M., The NCSU Libraries’ Alt-Textbook Project: Open Education That Opens a Door to the Library. In Diaz, C. (ed.) Textbooks in Academic Libraries. (Forthcoming 2017)
+- Alpi, K., Cross, W., Raschke, G., and Sullivan, M., The NCSU Libraries’ Alt-Textbook Project: Open Education That Opens a Door to the Library. In Diaz, C. (ed.) _Textbooks in Academic Libraries._ (Forthcoming 2017)
 
 `2016`
-- Library Expertise Driving Pedagogical Innovation: Bringing “Open” to the Classroom with Open Educational Resources. In Smith, K. and Dickson, K. (eds.) Leading the 21st-Century Academic Library. (pp. 71 - 96) (2016)
+- Library Expertise Driving Pedagogical Innovation: Bringing “Open” to the Classroom with Open Educational Resources. In Smith, K. and Dickson, K. (eds.) _Leading the 21st-Century Academic Library._ (pp. 71 - 96) (2016)
 
 `2015`
-- Making Space for the Giants: Copyright, Technology, and Online Instruction. In Major, C. (ed.) Teaching Online: A Guide to Theory, Research, and Practice. (pp. 131-149). (2015)
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
+- Making Space for the Giants: Copyright, Technology, and Online Instruction. In Major, C. (ed.) _Teaching Online: A Guide to Theory, Research, and Practice._ (pp. 131-149). (2015)
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2017 -->
 
 
