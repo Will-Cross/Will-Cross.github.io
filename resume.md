@@ -55,7 +55,7 @@ BA
 `2011`
 - Cross, W. and Edwards, P., Preservice Legal Education for Academic Librarians within ALA-Accredited Degree Programs. portal: Libraries and the Academy, 11(1) 533-550 (2011)
 
-- Hot Coffee and Freeze-Dried First Amendment Analysis: The Dubious Constitutionality of Using Private Ratings for Public Regulation of Video Games. First Amendment Law Review, 4 (1), 299-340 (2007)
+- Cross, W., Hot Coffee and Freeze-Dried First Amendment Analysis: The Dubious Constitutionality of Using Private Ratings for Public Regulation of Video Games. First Amendment Law Review, 4 (1), 299-340 (2007)
 
 ### Books
 
