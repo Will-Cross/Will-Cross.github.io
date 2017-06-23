@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Director, Copyright and Digital Scholarship Center
+Director, Copyright & Digital Scholarship Center
 
 ## Education
 
@@ -32,16 +32,16 @@ BA
 `2018`
 - Thompson, S., Cross, W., Rigling, L., and Vickery, J., Data-Informed Open Education Advocacy: A New Approach to Saving Students Money and Backaches, Journal of Access Services, (In Press)
 
-
+`2017`
 - Waller, M., Cross, W., and Rigling, L., The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration Between Academic Libraries and University Presses, Journal of Scholarly Publishing, 49(1) (2017)
 
-
+`2016`
 - More than a House of Cards: Developing a Firm Foundation for Streaming Media and Consumer-Licensed Content in the Library. The Journal of Copyright in Education and Librarianship 1(1) (2016) doi.org/10.17161/jcel.v1i1.5919
 
 
 - Libraries Support Data-Sharing Across the Research Lifecycle. Library Journal (2016)
 
-
+`2015`
 - Davis, H. and Cross, W., Using a Data Management Plan Review Service as Training Ground for Librarians. Journal of Librarianship and Scholarly Communication, 3(2) 1-20. (2015)
 
 
