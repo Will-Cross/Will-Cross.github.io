@@ -8,15 +8,15 @@ Director, Copyright and Digital Scholarship Center
 ## Education
 
 `2009 - 2011`
-__University of North Carolina School of Information and Library Science__
+__UNC School of Information and Library Science__
 MSLS
 
 `2004 - 2007`
-__University of North Carolina School of Law__
+__UNC School of Law__
 JD 
 
 `2001 - 2003`
-__University of North Carolina School of Media and Journalism__
+__UNC School of Media and Journalism__
 MA 
 
 `1996 - 2000`
