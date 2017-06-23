@@ -44,16 +44,16 @@ BA
 `2015`
 - Davis, H. and Cross, W., Using a Data Management Plan Review Service as Training Ground for Librarians. Journal of Librarianship and Scholarly Communication, 3(2) 1-20. (2015)
 
-
+`2014`
 - What We Talk About When We Talk About “Journal Club.” Serials Review, 40(2) 123-128 (2014)
 
-
+`2013`
 - Hanson, D., Cross, W., and Edwards, P., Copyright Policy and Practice in Electronic Reserves among ARL Libraries. College & Research Libraries, 74(2) 69-84. (2013)
 
-- Re
-storing the Public Library Ethos: Copyright, Licensing, and the Future of Librarianship. Law Library Journal, 104(1) 195-217 (2012). AALL Award Winner
+`2012`
+- Restoring the Public Library Ethos: Copyright, Licensing, and the Future of Librarianship. Law Library Journal, 104(1) 195-217 (2012). AALL Award Winner
 
-
+`2011`
 - Cross, W. and Edwards, P., Preservice Legal Education for Academic Librarians within ALA-Accredited Degree Programs. portal: Libraries and the Academy, 11(1) 533-550 (2011)
 
 
