@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Director, Copyright & Digital Scholarship Center
+Director, [Copyright & Digital Scholarship Center](https://www.lib.ncsu.edu/department/copyright-digital-scholarship-center-cdsc)
 
 ## Education
 
@@ -75,28 +75,37 @@ BA
 
 ## Awards and Grants
 
-+ “Designing OER to Prepare the Next Generation of Scholarly Communication Librarians” Institute of Museum and Library Science, $49,808 (Currently in second round review)
+- “Designing OER to Prepare the Next Generation of Scholarly Communication Librarians” _Institute of Museum and Library Science_, $49,808 (Currently in second round review)
 
-+ “Developing an Open Textbook Toolkit” Institute of Museum and Library Science LG-72-17-0051-17, $49,958 (2017)
+- “Developing an Open Textbook Toolkit” _Institute of Museum and Library Science_ LG-72-17-0051-17, $49,958 (2017)
 
-+ “Actualizing Innovations Meant to Scale (AIMS): Open Education Across the UNC System” University of North Carolina’s General Administration $32,750 (2017)
+- “Actualizing Innovations Meant to Scale (AIMS): Open Education Across the UNC System” _University of North Carolina’s General Administration_ $32,750 (2017)
 
-+ “The Alt-Textbook Project” NCSU Libraries Innovation Grant, $20,000 (2016)
+- “The Alt-Textbook Project” _NCSU Libraries Innovation Grant_, $20,000 (2016)
 
-+ “Open Education at North Carolina State” NCSU Foundation, $15,000 (2015) 
+- “Open Education at North Carolina State” _NCSU Foundation_, $15,000 (2015) 
 
 ## Service
 
--IMLS National Leadership Grants for Libraries (Field Reviewer, 2017)
--PsyArXiv (Steering Committee 2016 - present)
--ARL Print Disabilities Task Force (Member 2012)
--ACRL Scholarly Communications Road Show (Presenter Coordinator 2013 - present)
--Journal of Librarianship and Scholarly Communication (Reviewer 2015 - present)
--Journal of Copyright in Education and Librarianship (Reviewer 2016 - present)
--Triangle Scholarly Communications Institute (Advisory Board 2014 - present)
--Open Textbook Network (University Representative 2017 - present)
--American Library Association (Member 2011 - present)
--Association of College and Research Libraries (Member 2011 - present)
+- IMLS National Leadership Grants for Libraries (Field Reviewer, 2017)
+
+- PsyArXiv (Steering Committee 2016 - present)
+
+- ARL Print Disabilities Task Force (Member 2012)
+
+- ACRL Scholarly Communications Road Show (Presenter Coordinator 2013 - present)
+
+- Journal of Librarianship and Scholarly Communication (Reviewer 2015 - present)
+
+- Journal of Copyright in Education and Librarianship (Reviewer 2016 - present)
+
+- Triangle Scholarly Communications Institute (Advisory Board 2014 - present)
+
+- Open Textbook Network (University Representative 2017 - present)
+
+- American Library Association (Member 2011 - present)
+
+- Association of College and Research Libraries (Member 2011 - present)
 
 
 <!-- ### Footer
