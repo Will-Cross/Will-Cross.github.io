@@ -60,15 +60,18 @@ BA
 ### Book Chapters
 
 `2018`
-Rigling, L., and Cross, W., Getting to Know You: How We Turned Community Knowledge into Open Advocacy, in Wesolek, A., Lashley, J., and Langley, A. (eds.) OER: A Field Guide for Academic Librarians. Pacific University Press (Expected 2018)
+- Rigling, L., and Cross, W., Getting to Know You: How We Turned Community Knowledge into Open Advocacy, in Wesolek, A., Lashley, J., and Langley, A. (eds.) OER: A Field Guide for Academic Librarians. Pacific University Press (Expected 2018)
 
-Waller, M., Fragola, M., Rigling, L., Cross,W., and Evans-Groth, J., Articulating the Value of Student Works: Case Studies from the NCSU Libraries in Jackson, A., Pierard, C., and Schadl, S. (eds.) Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work (Forthcoming, 2018) 
+- Waller, M., Fragola, M., Rigling, L., Cross,W., and Evans-Groth, J., Articulating the Value of Student Works: Case Studies from the NCSU Libraries in Jackson, A., Pierard, C., and Schadl, S. (eds.) Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work (Forthcoming, 2018) 
+
 `2017`
-Alpi, K., Cross, W., Raschke, G., and Sullivan, M., The NCSU Libraries’ Alt-Textbook Project: Open Education That Opens a Door to the Library. In Diaz, C. (ed.) Textbooks in Academic Libraries. (Forthcoming 2017)
+- Alpi, K., Cross, W., Raschke, G., and Sullivan, M., The NCSU Libraries’ Alt-Textbook Project: Open Education That Opens a Door to the Library. In Diaz, C. (ed.) Textbooks in Academic Libraries. (Forthcoming 2017)
+
 `2016`
-Library Expertise Driving Pedagogical Innovation: Bringing “Open” to the Classroom with Open Educational Resources. In Smith, K. and Dickson, K. (eds.) Leading the 21st-Century Academic Library. (pp. 71 - 96) (2016)
+- Library Expertise Driving Pedagogical Innovation: Bringing “Open” to the Classroom with Open Educational Resources. In Smith, K. and Dickson, K. (eds.) Leading the 21st-Century Academic Library. (pp. 71 - 96) (2016)
+
 `2015`
-Making Space for the Giants: Copyright, Technology, and Online Instruction. In Major, C. (ed.) Teaching Online: A Guide to Theory, Research, and Practice. (pp. 131-149). (2015)
+- Making Space for the Giants: Copyright, Technology, and Online Instruction. In Major, C. (ed.) Teaching Online: A Guide to Theory, Research, and Practice. (pp. 131-149). (2015)
 
 
 ## Occupation
