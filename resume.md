@@ -38,6 +38,7 @@ BA
 `2016`
 - Cross, W., More than a House of Cards: Developing a Firm Foundation for Streaming Media and Consumer-Licensed Content in the Library. _The Journal of Copyright in Education and Librarianship_ 1(1) (2016) doi.org/10.17161/jcel.v1i1.5919
 
+
 - Cross, W., Libraries Support Data-Sharing Across the Research Lifecycle. _Library Journal_ (2016)
 
 `2015`
