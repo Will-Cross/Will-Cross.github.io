@@ -25,7 +25,7 @@ BA
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A complete list is also available [on my ORCID page](http://orcid.org/0000-0003-1287-1156)
 
 ## Journal Articles
 
@@ -51,18 +51,14 @@ BA
 
 ## Book Chapters
 
-`2018`
 - Rigling, L., and Cross, W., Getting to Know You: How We Turned Community Knowledge into Open Advocacy, in Wesolek, A., Lashley, J., and Langley, A. (eds.) _OER: A Field Guide for Academic Librarians._ Pacific University Press (Expected 2018)
 
 - Waller, M., Fragola, M., Rigling, L., Cross,W., and Evans-Groth, J., Articulating the Value of Student Works: Case Studies from the NCSU Libraries in Jackson, A., Pierard, C., and Schadl, S. (eds.) _Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work_ (Forthcoming, 2018) 
 
-`2017`
 - Alpi, K., Cross, W., Raschke, G., and Sullivan, M., The NCSU Libraries’ Alt-Textbook Project: Open Education That Opens a Door to the Library. In Diaz, C. (ed.) _Textbooks in Academic Libraries._ (Forthcoming 2017)
 
-`2016`
 - Library Expertise Driving Pedagogical Innovation: Bringing “Open” to the Classroom with Open Educational Resources. In Smith, K. and Dickson, K. (eds.) _Leading the 21st-Century Academic Library._ (pp. 71 - 96) (2016)
 
-`2015`
 - Making Space for the Giants: Copyright, Technology, and Online Instruction. In Major, C. (ed.) _Teaching Online: A Guide to Theory, Research, and Practice._ (pp. 131-149). (2015)
 
 ## Awards and Grants
