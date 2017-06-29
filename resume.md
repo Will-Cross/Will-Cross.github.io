@@ -29,34 +29,25 @@ BA
 
 ### Journals
 
-`2018`
-- Thompson, S., Cross, W., Rigling, L., and Vickery, J., Data-Informed Open Education Advocacy: A New Approach to Saving Students Money and Backaches, _Journal of Access Services,_ (In Press)
+* Thompson, S., Cross, W., Rigling, L., and Vickery, J., Data-Informed Open Education Advocacy: A New Approach to Saving Students Money and Backaches, _Journal of Access Services,_ (In Press)
 
-`2017`
-- Waller, M., Cross, W., and Rigling, L., The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration Between Academic Libraries and University Presses, _Journal of Scholarly Publishing,_ 49(1) (2017)
+* Waller, M., Cross, W., and Rigling, L., The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration Between Academic Libraries and University Presses, _Journal of Scholarly Publishing,_ 49(1) (2017)
 
-`2016`
-- Cross, W., More than a House of Cards: Developing a Firm Foundation for Streaming Media and Consumer-Licensed Content in the Library. _The Journal of Copyright in Education and Librarianship_ 1(1) (2016) doi.org/10.17161/jcel.v1i1.5919
+* Cross, W., More than a House of Cards: Developing a Firm Foundation for Streaming Media and Consumer-Licensed Content in the Library. _The Journal of Copyright in Education and Librarianship_ 1(1) (2016) doi.org/10.17161/jcel.v1i1.5919
 
+* Cross, W., Libraries Support Data-Sharing Across the Research Lifecycle. _Library Journal_ (2016)
 
-- Cross, W., Libraries Support Data-Sharing Across the Research Lifecycle. _Library Journal_ (2016)
+* Davis, H. and Cross, W., Using a Data Management Plan Review Service as Training Ground for Librarians. _Journal of Librarianship and Scholarly Communication,_ 3(2) 1-20. (2015)
 
-`2015`
-- Davis, H. and Cross, W., Using a Data Management Plan Review Service as Training Ground for Librarians. _Journal of Librarianship and Scholarly Communication,_ 3(2) 1-20. (2015)
+* Cross, W., What We Talk About When We Talk About “Journal Club.” _Serials Review,_ 40(2) 123-128 (2014)
 
-`2014`
-- Cross, W., What We Talk About When We Talk About “Journal Club.” _Serials Review,_ 40(2) 123-128 (2014)
+* Hanson, D., Cross, W., and Edwards, P., Copyright Policy and Practice in Electronic Reserves among ARL Libraries. _College & Research Libraries,_ 74(2) 69-84. (2013)
 
-`2013`
-- Hanson, D., Cross, W., and Edwards, P., Copyright Policy and Practice in Electronic Reserves among ARL Libraries. _College & Research Libraries,_ 74(2) 69-84. (2013)
+* Cross, W., Restoring the Public Library Ethos: Copyright, Licensing, and the Future of Librarianship. _Law Library Journal,_ 104(1) 195-217 (2012). AALL Award Winner
 
-`2012`
-- Cross, W., Restoring the Public Library Ethos: Copyright, Licensing, and the Future of Librarianship. _Law Library Journal,_ 104(1) 195-217 (2012). AALL Award Winner
+* Cross, W. and Edwards, P., Preservice Legal Education for Academic Librarians within ALA-Accredited Degree Programs. _portal: Libraries and the Academy,_ 11(1) 533-550 (2011)
 
-`2011`
-- Cross, W. and Edwards, P., Preservice Legal Education for Academic Librarians within ALA-Accredited Degree Programs. _portal: Libraries and the Academy,_ 11(1) 533-550 (2011)
-
-- Cross, W., Hot Coffee and Freeze-Dried First Amendment Analysis: The Dubious Constitutionality of Using Private Ratings for Public Regulation of Video Games. _First Amendment Law Review,_ 4 (1), 299-340 (2007)
+* Cross, W., Hot Coffee and Freeze-Dried First Amendment Analysis: The Dubious Constitutionality of Using Private Ratings for Public Regulation of Video Games. _First Amendment Law Review,_ 4 (1), 299-340 (2007)
 
 ### Book Chapters
 
