@@ -29,9 +29,9 @@ BA
 
 ### Journals
 
-* Thompson, S., Cross, W., Rigling, L., and Vickery, J., Data-Informed Open Education Advocacy: A New Approach to Saving Students Money and Backaches, _Journal of Access Services,_ (In Press)
+- Thompson, S., Cross, W., Rigling, L., and Vickery, J., Data-Informed Open Education Advocacy: A New Approach to Saving Students Money and Backaches, _Journal of Access Services,_ (In Press)
 
-* Waller, M., Cross, W., and Rigling, L., The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration Between Academic Libraries and University Presses, _Journal of Scholarly Publishing,_ 49(1) (2017)
+- Waller, M., Cross, W., and Rigling, L., The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration Between Academic Libraries and University Presses, _Journal of Scholarly Publishing,_ 49(1) (2017)
 
 * Cross, W., More than a House of Cards: Developing a Firm Foundation for Streaming Media and Consumer-Licensed Content in the Library. _The Journal of Copyright in Education and Librarianship_ 1(1) (2016) doi.org/10.17161/jcel.v1i1.5919
 
