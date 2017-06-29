@@ -27,7 +27,7 @@ BA
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Journal Articles
 
 - Thompson, S., Cross, W., Rigling, L., and Vickery, J., Data-Informed Open Education Advocacy: A New Approach to Saving Students Money and Backaches, _Journal of Access Services,_ (In Press)
 
@@ -49,7 +49,7 @@ BA
 
 * Cross, W., Hot Coffee and Freeze-Dried First Amendment Analysis: The Dubious Constitutionality of Using Private Ratings for Public Regulation of Video Games. _First Amendment Law Review,_ 4 (1), 299-340 (2007)
 
-### Book Chapters
+## Book Chapters
 
 `2018`
 - Rigling, L., and Cross, W., Getting to Know You: How We Turned Community Knowledge into Open Advocacy, in Wesolek, A., Lashley, J., and Langley, A. (eds.) _OER: A Field Guide for Academic Librarians._ Pacific University Press (Expected 2018)
